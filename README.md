@@ -133,3 +133,9 @@ jupyter-lab
 Once `jupyter-lab` server launches, you will have access to a browser based IDE.
 
 Access the file `test.ipynb`. Follow the instructions.
+
+![Screenshot of the browser based IDE for Jupyter Lab, showing where to select the test file.](images/jl_test_file.png)
+
+Image reference for how to run the test file.
+
+![Screenshot of the browser based IDE for Jupyter Lab, showing how to select Run All Cells from the file menu.](images/jl_run_all_cells.png)
