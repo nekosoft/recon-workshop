@@ -4,11 +4,11 @@ This is the initial setup requirements.
 
 ## Environment Checklist
 
-[ ] Python 3
-[ ] Jupyter Lab
-[ ] Dependencies outlined in `requirements.txt`
-[ ] Nice to have: Bash terminal
-[ ] Nice to have: IDE such as VSCode (you can use a terminal within here)
+- [ ] Python 3
+- [ ] Jupyter Lab
+- [ ] Dependencies outlined in `requirements.txt`
+- [ ] Nice to have: Bash terminal
+- [ ] Nice to have: IDE such as VSCode (you can use a terminal within here)
 
 
 ## Project Files
