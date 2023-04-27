@@ -13,9 +13,16 @@ This is the initial setup requirements.
 
 ## Project Files
 
-`git clone https://github.com/nekosoft/recon-workshop.git` or download the files to your machine with the Github UI.
+Clone or download the files.
 
+Clone the files from Github:
+```
+git clone https://github.com/nekosoft/recon-workshop.git
+```
 
+Download the files to your machine with the Github UI.
+
+![Screenshot of the Github UI, showing the Code dropdown menu, and the Download Zip option.](images/github_download_ui.png)
 
 ## Environment Setup
 
