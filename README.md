@@ -27,9 +27,14 @@ Download the files to your machine with the Github UI.
 ## Environment Setup
 
 Download the latest release for Python 3, for your OS: https://www.python.org/downloads/
+
 We will be using Jupyter Lab, read more here: https://jupyter.org/install
+
 A bash environment is nice but not totally necessary for this course.
+
 It is recommended you use an Integrated Development Environment (IDE) such as VSCode, but it is not specifically required for this course: https://code.visualstudio.com/
+
+Optional OS: Kali Linux OS will have many tools preinstalled: https://www.kali.org/
 
 
 ### Unix: Setting up the project
@@ -61,8 +66,6 @@ Run Jupyter Lab
 jupyter-lab
 ```
 
-Optional OS: Kali Linux OS will have many tools preinstalled: https://www.kali.org/
-
 __Note: If you'd prefer to use your own dependency management, such as Poetry, you are free to do so.__
 
 
@@ -93,7 +96,7 @@ venv\Scripts\activate
 ```
 
 Ensure the Python Interpreter for your virtual environment is selected 
-- `ctl + shift + p` on Windows, then search for `Python: Select Interpreter`
+`ctl + shift + p` on Windows, then search for `Python: Select Interpreter`
 
 Install the requirements with pip / pip3:
 
