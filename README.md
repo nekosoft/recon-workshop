@@ -37,7 +37,7 @@ It is recommended you use an Integrated Development Environment (IDE) such as VS
 Optional OS: Kali Linux OS will have many tools preinstalled: https://www.kali.org/
 
 
-### Unix: Setting up the project
+### Unix based / macOS: Setting up the project
 
 Ensure you are in the directory with these project files.
 
